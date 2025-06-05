@@ -46,8 +46,9 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwasshar&show_icons=true&theme=monokai&locale=en&layout=compact&hide_border=true" alt="VishwasSharma" /></p>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vishwasshar&theme=monokai&hide_border=true" alt="GitHub Streak" /></a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwasshar&theme=monokai&show_icons=true&locale=en&hide_border=true" alt="VishwasSharma" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vishwasshar&theme=monokai&hide_border=true" alt="GitHub Streak" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwasshar&show_icons=true&theme=monokai&locale=en&layout=compact&hide_border=true" alt="VishwasSharma" /></p>
