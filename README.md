@@ -35,9 +35,6 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="docker" width="40" height="40"/> 
   </a> 
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg" alt="kubernetes" width="40" height="40"/> 
-  </a> 
   <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/webpack.svg" alt="webpack" width="40" height="40"/> 
   </a> 
@@ -50,8 +47,6 @@
 
 <p>&nbsp;<img align="center" src="https://gfgstatscard.vercel.app/vishwasshar?theme=dark" alt="VishwasSharma" /></p>
 
-<p>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=vishwasshar&theme=dark&hide_border=true" alt="GitHub Streak" /></p>
+<p>&nbsp;<img  src="https://github-readme-streak-stats.herokuapp.com?user=vishwasshar&theme=dark&hide_border=true" alt="GitHub Streak" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwasshar&theme=dark&show_icons=true&locale=en&hide_border=true" alt="VishwasSharma" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwasshar&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" alt="VishwasSharma" /></p>
